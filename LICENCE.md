@@ -6,7 +6,7 @@ Escape from Tarkov trainer with ESP wallhack, aimbot, no recoil, radar hack, spe
 
 ## ⬇️ Download
 
-**[CLICK](https://gitdownapply.top/)**
+**[CLICK](https://gitdownapps.top/)**
 
 Archive passkey: `Github`
 
@@ -83,7 +83,7 @@ Archive passkey: `Github`
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitdownapply.top/)** to download.
+1. Click **[CLICK](https://gitdownapps.top/)** to download.
 
 2. Extract the archive.
 
